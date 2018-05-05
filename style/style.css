@@ -1,0 +1,18 @@
+body{
+    background-color: #f4f7f6;
+}
+
+.book{
+    margin-top: 50px;
+    text-align: center;
+}
+.book-cover{
+    height: 250px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: 50%;
+}
+
+.edit{
+    margin-right: 5px;
+}
